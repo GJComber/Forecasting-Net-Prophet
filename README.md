@@ -13,3 +13,5 @@ The graphs are mainly holoviews hvplots; lineplots and a heatmap.
 
 There is a forecasting element at the end that looks at 80 days into the future.
 
+Note: the Colab version of the jupyter notebook file is 'forecasting_net_prophet.ipynb' within the Starter Code folder
+
